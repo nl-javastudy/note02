@@ -5,7 +5,7 @@
 
 ---
 
-![image description](./assets/asset1.png)
+![image description](./asset/asset1.png)
 
 ## 1. 정의 (Definition)
 
