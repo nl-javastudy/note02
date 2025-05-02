@@ -5,6 +5,8 @@
 
 ---
 
+![image description](./assets/asset1.png)
+
 ## 1. 정의 (Definition)
 
 ### ✅ Checked Exception
